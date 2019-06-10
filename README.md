@@ -46,6 +46,22 @@ class noneStatic
 ***
 ##调试结果
 ![3](https://github.com/luckyxiaohei/img/blob/master/2.3.png)
+***
+***
+***
+##创建wpf项目，添加俩个文本框，其中一个只读，利用textchange事件实现俩文本框内容同步
+![1](https://github.com/luckyxiaohei/img/blob/master/2.4.png)
+![2](https://github.com/luckyxiaohei/img/blob/master/2.5.png)
+
+***
+##添加命令行参数，使用Environment.GetCommandLineArgs()获取，因为第一个获取的是当前程序全路径，因此args[0]要被忽略，这里选择了第二个参数也就是args[2]
+***
+![3](https://github.com/luckyxiaohei/img/blob/master/2.6.png)
+***
+##点击button输出参数
+![4](https://github.com/luckyxiaohei/img/blob/master/2.7.png)
+***
+***
 
 
 
