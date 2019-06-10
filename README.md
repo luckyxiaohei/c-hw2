@@ -62,7 +62,13 @@ class noneStatic
 ![4](https://github.com/luckyxiaohei/img/blob/master/2.7.png)
 ***
 ***
-
+##创建windowsform项目，添加button点击事件，输出命令行参数
+***
+![1](https://github.com/luckyxiaohei/img/blob/master/2.8.png)
+***
+![2](https://github.com/luckyxiaohei/img/blob/master/2.9.jpg)
+***
+![3](https://github.com/luckyxiaohei/img/blob/master/2.10.png)
 
 
 
