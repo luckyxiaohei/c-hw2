@@ -69,6 +69,14 @@ class noneStatic
 ![2](https://github.com/luckyxiaohei/img/blob/master/2.9.jpg)
 ***
 ![3](https://github.com/luckyxiaohei/img/blob/master/2.10.png)
+***
+##创建xamarin项目
+***
+###设计器搞几个text和button，button设置onclick传入mainactivity,写个简单的判断和输出
+***
+![m](https://github.com/luckyxiaohei/img/blob/master/2.21.png)
+***
+![m](https://github.com/luckyxiaohei/img/blob/master/2.22.png)
 
 
 
